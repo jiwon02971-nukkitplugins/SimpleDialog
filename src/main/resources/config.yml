@@ -1,0 +1,11 @@
+messages:
+ only_text:
+  title: 알림
+ filtering:
+  title: 필터링
+  ask_use_filter: 필터링을 사용하시겠습니까?
+  b_yes: 예
+  b_no: 아니요, 전체목록을 확인하겠습니다.
+  press_element: 찾는 요소를 클릭해주세요.
+  input_name: 찾는 요소의 일부를 입력해주세요.
+  no_element: 요소가 존재하지 않습니다.
